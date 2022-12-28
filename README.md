@@ -7,7 +7,15 @@ An application to get or search information about Pokemons.
 2. Get a lot of information about Pokemons.
 3. You can add your favorite Pokemon to your favorite list.
 4. Search Pokemons by names or their abilities.
-5. Lite and Dark app themes.
+5. Light and Dark app themes.
+```
+
+## This is app created using:
+```
+1. MVC architecture pattern.
+2. Provider as a state management solution.
+3. Generate colors depending on Pokemon dominant color using palette_generator package.
+4. sharedpreferences to save favorite pokemons and light\dark theme.
 ```
 
 ## Credits:
