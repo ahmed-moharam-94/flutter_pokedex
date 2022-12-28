@@ -8,6 +8,7 @@ An application to get or search information about Pokemons.
 3. You can add your favorite Pokemon to your favorite list.
 4. Search Pokemons by names or their abilities.
 5. Light and Dark app themes.
+6. Custom animations.
 ```
 
 ## This is app was created using:
