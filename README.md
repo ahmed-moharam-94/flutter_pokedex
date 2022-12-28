@@ -10,7 +10,7 @@ An application to get or search information about Pokemons.
 5. Light and Dark app themes.
 ```
 
-## This is app created using:
+## This is app was created using:
 ```
 1. MVC architecture pattern.
 2. Provider as a state management solution.
