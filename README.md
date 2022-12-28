@@ -22,3 +22,15 @@ An application to get or search information about Pokemons.
 ## Credits:
 - [Pokemon Info](https://pokeapi.co/)
 - [Pokemon Images](https://www.pokemon.com/us/pokedex)
+
+
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_1.jpg" width="150" height="300"> | <img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_2.jpg" width="150" height="300"> |
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_3.jpg" width="150" height="300">
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_4.jpg" width="150" height="300">
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_5.jpg" width="150" height="300">
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_6.jpg" width="150" height="300">
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_7.jpg" width="150" height="300">
+<img src="https://github.com/ahmed-moharam-94/flutter_pokedex/blob/master/media/screen_shot_8.jpg" width="150" height="300">
+
+
+
